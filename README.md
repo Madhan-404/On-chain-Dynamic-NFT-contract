@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# Dynamic On chain NFT Contracts.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Verify and mint your NFTs at: https://mumbai.polygonscan.com/address/0x8746a6e887b0631216198e7fc9801e6c685407cc
+ 
+ Polygon Mumbai testnets are used.
+ Polygon because on chains are costlier than IPFS but fee in polygon is low.
+ Alos, this is a Dynamic NFTs, which keeps on changing when they are trained.(Level up)
